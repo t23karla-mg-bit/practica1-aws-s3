@@ -1,0 +1,6 @@
+id_transaccion,cliente_id,monto,fecha,estado
+TXN1001,CUST_01,150.50,2026-10-10,completada
+TXN1002,CUST_02,2300.00,2026-10-11,completada
+TXN1003,CUST_03,45.00,2026-10-11,fallida
+TXN1004,CUST_01,890.20,2026-10-12,completada
+TXN1005,CUST_04,12.99,2026-10-13,pendiente
